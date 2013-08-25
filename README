@@ -1,0 +1,4 @@
+yum-autoclean
+=============
+
+Yum plugin for cleaning up old packages in cache.
